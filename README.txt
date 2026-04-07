@@ -1,0 +1,4 @@
+DESCRIPCION:
+
+Se descarga dataset publico de Kaggle "abbas829/bank-customer-churn" el cual ofrece una base de datos para saber que clientes abandonan el banco, se utilizan dos modelos para validar dicha informacion: RandomForest y Regresion LOgistica.
+Se observa el modelo Random Forest mejora significativamente la detección de clientes que abandonan (recall), lo cual es crítico en problemas de churn, ya que permite tomar acciones preventivas. Aunque aumenta el número de falsos positivos, este trade-off es aceptable desde una perspectiva de negocio, dado que el costo de perder un cliente suele ser mayor que el de intervenir innecesariamente.”
